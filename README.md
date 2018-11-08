@@ -1,2 +1,9 @@
 # my_tmdb
-playing with the flutter bloc pattern
+
+Playing with Flutter BLoC pattern.
+
+
+## Getting Started
+
+This is the code from 
+[MyMovies](https://github.com/SAGARSURI/MyMovies).
